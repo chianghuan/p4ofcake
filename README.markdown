@@ -97,7 +97,7 @@ Hello, world!
 
 > [README.markdown][1]
 > 
-> [1]: https://github.com/chianghuan/p4ofcake/blob/master/README.markdown "标题"
+> [1]: https://github.com/chianghuan/p4ofcake/blob/master/README.markdown
 
 这是一张图片:
 
