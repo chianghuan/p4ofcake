@@ -4,19 +4,18 @@ Hello, world!
 
 你好，世界！
 ===
-[江欢](https://github.com/chianghuan/)is trying to putting his notes/memo/blog/knowledge-repo on github. The docs are written in [mark down](http://daringfireball.net/projects/markdown/). The markup is authored by [John Gruber](http://daringfireball.net/).
+[chianghuan](https://github.com/chianghuan/) is trying to putting his notes/memo/blog/knowledge-repo on github. The docs are written in [mark down](http://daringfireball.net/projects/markdown/). The markup is authored by [John Gruber](http://daringfireball.net/).
 
------
-
-Ok, here we go!
+开始
 ===
-下面开始将是一堆各种格式排版的文字或图片或链接。纯粹是我学习、试用和列举mark up的各种标记，并留来方便以后查找。参考资料[markdown:syntax](http://daringfireball.net/projects/markdown/syntax)。
+下面开始将是一堆各种格式排版的文字或图片或链接。纯粹是我学习、试用和列举mark up的各种标记，并留来方便以后查找。参考资料 [markdown:syntax](http://daringfireball.net/projects/markdown/syntax)。
 
 标题
 ---
 [atx](http://www.aaronsw.com/2002/atx/)形式的标题标记
 
 > #这是一个大号标题 <br/>
+> 开得出大号标题后的文字段落，末了会有一个华丽的分割线。
 > ##这是一个次号标题 <br/>
 > ###这个还更小一点 <br/>
 > ####可以再小一点 <br/>
@@ -45,8 +44,11 @@ Ok, here we go!
 以下文本为多重引文：
 
 > 这是一段引用的文字
+> 
 > > 它还引用了其它文字
+> > 
 > > > 并且其它文字还引用了其它它文字
+> 
 > 还好不是那么容易造成混乱
 
 代码
@@ -70,12 +72,11 @@ Ok, here we go!
 
 > * 表项1
 > * 表项2
-> 
+
 > + 表项1
 > + 表项2
-> 
-> - 表项1，第一段，第一行 </br>
->     表项1，第一段，第二行
+
+> - 表项1，第一段
 > 
 >     表项1，第二段
 > - 表项2
@@ -88,10 +89,12 @@ Ok, here we go!
 
 引用资源
 ---
-这是一个链接:<br/>
+这是一个链接:
+
 > [README.markdown](https://github.com/chianghuan/p4ofcake/blob/master/README.markdown)
 
-这是另外一种链接标记方式:<br/>
+这是另外一种链接标记方式:
+
 > [README.markdown][1]
 > [1]: https://github.com/chianghuan/p4ofcake/blob/master/README.markdown "标题"
 
@@ -107,11 +110,6 @@ Ok, here we go!
 > -----
 > 文艺分割线
 > 
-> *****
-> 
-> 敏感词分割线
-> 
 > * * *
 > 
 > - - -
-
