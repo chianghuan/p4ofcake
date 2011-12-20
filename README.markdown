@@ -34,11 +34,11 @@ Hello, world!
 > 这个句子，<br/>
 > 下一个句子。
 
-以下文本中包含了不同的字体格式：
+以下文本中包含了不同的字体格式：\*注:此处用\*标记代替'<em>强调</em>'失效
 
-> 这是_强调_文本 <br/>
+> 这是<em>强调</em>文本<br/>
 > 这是__粗体__文本 <br/>
-> 这又是*强调*文本 <br/>
+> 这又是<em>强调</em>文本 <br/>
 > 这又是**粗体**文本 <br/>
 
 以下文本为多重引文：
@@ -96,19 +96,21 @@ Hello, world!
 这是另外一种链接标记方式:
 
 > [README.markdown][1]
+> 
 > [1]: https://github.com/chianghuan/p4ofcake/blob/master/README.markdown "标题"
 
-这是一张图片:<br/>
+这是一张图片:
+
 > ![图片文字](https://a248.e.akamai.net/assets.github.com/images/modules/header/logov7@4x-hover.png?1324325369)
 
 分割线
 ---
-最后是几条分割线
+最后是两条分割线
 
 > 普通分割线
 > 
 > -----
-> 文艺分割线
+> 两条分割线合体
 > 
 > * * *
 > 
