@@ -8,14 +8,14 @@ Hello, world!
 
 开始
 ===
-下面开始将是一堆各种格式排版的文字或图片或链接。纯粹是我学习、试用和列举mark up的各种标记，并留来方便以后查找。参考资料 [markdown:syntax](http://daringfireball.net/projects/markdown/syntax)。
+下面开始将是一堆各种格式排版的文字或图片或链接。纯粹用于我学习、试用和列举mark up的各种标记，并留来方便以后查找。参考资料 [markdown:syntax](http://daringfireball.net/projects/markdown/syntax)。
 
 标题
 ---
 [atx](http://www.aaronsw.com/2002/atx/)形式的标题标记
 
 > #这是一个大号标题 <br/>
-> 开得出大号标题后的文字段落，末了会有一个华丽的分割线。
+> 看得出大号标题后的文字段落，末了会有一个华丽的分割线。
 > ##这是一个次号标题 <br/>
 > ###这个还更小一点 <br/>
 > ####可以再小一点 <br/>
