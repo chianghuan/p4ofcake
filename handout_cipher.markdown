@@ -41,7 +41,8 @@ revert it to the plaintext
 solved.
 see also: symmetric-key cipher, confusion and diffusion, DES, AES
 
-and this code will read hexidecimal of 2 digits: (learn more about printf, sprintf, scanf, sscanf)
+and this code will read hexidecimal of 2 digits(learn more about printf, sprintf, scanf, sscanf): 
+
     for (unsigned int i = 0, _t = strlen(text); i < _t; i += 2)
     {
         int x;
