@@ -45,7 +45,7 @@ solved.
 
 see also: symmetric-key cipher, confusion and diffusion, DES, AES
 
-and this code will read hexidecimal of 2 digits(learn more about printf, sprintf, scanf, sscanf): 
+and this code will read hexidecimal of 2 digits (learn more about printf, sprintf, scanf, sscanf. they are more useful and powerful than you thought.): 
 
 	int x;
 	char *text = "xxxxxx";
