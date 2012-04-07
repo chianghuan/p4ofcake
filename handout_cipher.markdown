@@ -4,6 +4,7 @@
 	Guvf zrffntr vf rapelcgrq va ebg 13. Lbhe nafjre vf svfupnxr.
 
 solved. 
+
 see also: ROT13
 
 #puzzle 2. Substitution
@@ -14,6 +15,7 @@ see also: ROT13
 *hint: frequency analysis
 
 solved.
+
 see also: substitution cipher
 
 #puzzle 3. Useful XOR
@@ -38,7 +40,9 @@ the ciphertext which the code prints is:
 revert it to the plaintext
 
 *hint: exclusive or, xor cipher
+
 solved.
+
 see also: symmetric-key cipher, confusion and diffusion, DES, AES
 
 and this code will read hexidecimal of 2 digits(learn more about printf, sprintf, scanf, sscanf): 
@@ -54,5 +58,6 @@ and this code will read hexidecimal of 2 digits(learn more about printf, sprintf
 ---
 
 calculate the sum of all prime numbers in [5000001, 5010000].
+
 *hint: prime, sieve of Eratosthenes
 
