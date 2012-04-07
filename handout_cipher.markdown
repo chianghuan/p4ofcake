@@ -38,3 +38,19 @@ the ciphertext which the code prints is:
 revert it to the plaintext
 
 *hint: exclusive or, xor cipher
+solved.
+see also: symmetric-key cipher, confusion and diffusion, DES, AES
+
+and this code will read hexidecimal of 2 digits: (learn more about printf, sprintf, scanf, sscanf)
+    for (unsigned int i = 0, _t = strlen(text); i < _t; i += 2)
+    {
+        int x;
+        sscanf(text + i, "%2x", &x);
+    }
+
+#puzzle 4. A Little Bit Math
+---
+
+calculate the sum of all prime numbers in [5000001, 5010000].
+*hint: prime, sieve of Eratosthenes
+
